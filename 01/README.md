@@ -2,7 +2,7 @@
 
 Lecțiile de chitară sunt scrise de Ghiță Bizău. Cânt la chitară din 2003 și am fost în cea mai mare parte autodidact. Încerc să scriu lecțiile într-un mod cât mai simplificat, în cuvinte simple. Scopul e să găsim un traseu educațional scurt de tot, astfel încât să poți cu chitara ta să ieșiți la cântat cât mai repede. Succes!
 
-## Lecția 1
+## Lecția 1 - Noțiuni introductive
 
 ### 1.1. Alcătuirea chitarei
 

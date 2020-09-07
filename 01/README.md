@@ -28,4 +28,4 @@ La = A
 
 Si = B
 
-# [Înapoi la Cuprins]((https://github.com/Voluntari-Noi/guitar-lessons))
+# [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

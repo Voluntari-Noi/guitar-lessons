@@ -30,4 +30,8 @@ La = A
 
 Si = B
 
+### 1.3. Corzile
+
+Lăsate libere, corzile dau următoarele sunete (începând cu coarda cea mai subțire, până la cea mai groasă): **E, B, G, D, A, E**.
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

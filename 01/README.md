@@ -42,4 +42,20 @@ Am notat cu S mâna stângă și cu D mâna dreaptă. La mâna stângă, degetul
 
 La mâna dreaptă, în schimb, nu prea folosim degetul mic, dar folosim degetul mare. De aceea, am numerotat degetele folosite, începând cu degetul mare: 1, 2, 3, 4.
 
+### 1.5. Notele muzicale la pian
+
+Sigur ai văzut cândva un pian. El are clape. De la stânga la dreapta, apăsând clape, obții sunete muzicale - care sună din ce în ce mai sus. Și fiecare clapă sună diferit, nu există 2 clape cu sunet identic. Totuși notele muzicale se repetă: C, D, E, F, G, A, B, C, D, ... Pentru că sunt 7 note muzicale, fiecare a 8-a clapă repetă nota de la care pornești cu numărătoarea (va fi o notă cu o **octavă** mai sus).
+
+![note-pian](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-03.png)
+
+### 1.6. Clape albe, clape negre
+
+Clapele albe... ai înețeles deja: Do, Re, Mi, Fa, Sol, La, Si, Do, Re ...
+
+Clapele negre le numim fie în funcție de clapa după care urmează - de exemplu: clapa neagră după clapa C este numită **C# (Do diez)**, fie în funcție de clapa albă pe care o precedă **Db (Re bemol)** = clapa neagră care precedă clapa D. **C# = Db**, e una și aceeași clapă.
+
+Observă că nu avem clapă neagră între E și F, nici între B și C.
+
+Deci notele cu diez sunt:
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

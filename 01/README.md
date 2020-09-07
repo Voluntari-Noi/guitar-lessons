@@ -38,4 +38,6 @@ Lăsate libere, corzile dau următoarele sunete (începând cu coarda cea mai su
 
 ![mainile-degete](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-02.png)
 
+Am notat cu S mâna stângă și cu D mâna dreaptă.
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

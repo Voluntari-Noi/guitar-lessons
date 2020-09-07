@@ -34,4 +34,8 @@ Si = B
 
 Lăsate libere, corzile dau următoarele sunete (începând cu coarda cea mai subțire, până la cea mai groasă): **E, B, G, D, A, E**.
 
+### 1.4. Mâinile
+
+![mainile-degete](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-02.png)
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

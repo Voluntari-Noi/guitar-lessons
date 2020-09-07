@@ -38,6 +38,8 @@ Lăsate libere, corzile dau următoarele sunete (începând cu coarda cea mai su
 
 ![mainile-degete](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-02.png)
 
-Am notat cu S mâna stângă și cu D mâna dreaptă.
+Am notat cu S mâna stângă și cu D mâna dreaptă. La mâna stângă, degetul mare va fi în spatele grifului și te va ajuta să strângi de el ca să prinzi notele și acordurile cu celelalte degete. De aceea, nu îl numărăm. Numărăm degetele următoare 1, 2, 3, 4 - unde 4 este degetul mic.
+
+La mâna dreaptă, în schimb, nu prea folosim degetul mic, dar folosim degetul mare. De aceea, am numerotat degetele folosite, începând cu degetul mare: 1, 2, 3, 4.
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

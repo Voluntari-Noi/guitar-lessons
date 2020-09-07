@@ -50,12 +50,10 @@ Sigur ai văzut cândva un pian. El are clape. De la stânga la dreapta, apăsâ
 
 ### 1.6. Clape albe, clape negre
 
-Clapele albe... ai înețeles deja: Do, Re, Mi, Fa, Sol, La, Si, Do, Re ...
+Clapele albe... ai înțeles deja: Do, Re, Mi, Fa, Sol, La, Si, Do, Re ...
 
 Clapele negre le numim fie în funcție de clapa după care urmează - de exemplu: clapa neagră după clapa C este numită **C# (Do diez)**, fie în funcție de clapa albă pe care o precedă **Db (Re bemol)** = clapa neagră care precedă clapa D. **C# = Db**, e una și aceeași clapă.
 
 Observă că nu avem clapă neagră între E și F, nici între B și C.
-
-Deci notele cu diez sunt:
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

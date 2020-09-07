@@ -6,6 +6,8 @@ Lecțiile de chitară sunt scrise de Ghiță Bizău. Cânt la chitară din 2003 
 
 ### 1.1. Alcătuirea chitarei
 
+[alcătuirea-chitarei](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-01.png)
+
 Chitara are un „gât” pe care-l numim **grif**. Griful are niște spații pe care apăsăm cu mâna stângă ca să obținem note / sunete muzicale. Acele spații se numesc **taste**.
 
 Chitara mai are niște „urechi” folosite pentru a acorda corzile (cele **6 corzi**), ele se numesc **cheițe**.

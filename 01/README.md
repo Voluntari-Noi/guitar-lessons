@@ -56,4 +56,8 @@ Clapele negre le numim fie în funcție de clapa după care urmează - de exempl
 
 Observă că nu avem clapă neagră între E și F, nici între B și C.
 
+### 1.7. Notele pe grif
+
+![note-grif](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-04.png)
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

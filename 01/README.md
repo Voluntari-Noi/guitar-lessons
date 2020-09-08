@@ -66,6 +66,8 @@ Observi că cea mai subțire coardă când e lăsată liberă dă nota E, pe tas
 
 Pe coarda B, ai notele C, C#, D etc.
 
+**Tasta 12** este specială. Acolo găsești notele pentru fiecare coardă - cu o **octavă** mai sus. Deci E - E, B - B, G - G ș.a.m.d.
+
 ### 1.8. Acordarea
 
 Am colorat tastele 4 și 5 - ajută la acordat. Coarda E groasă, pe tasta 5 să nota A (sunet identic cu coarda A lăsată liberă) etc.

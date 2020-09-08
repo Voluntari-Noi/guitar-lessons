@@ -75,4 +75,27 @@ Deci, se poate acorda o coardă ținând cont de relația cu celelalte corzi.
 
 Dar cel mai ușor e să folosești o aplicație pentru acordat chitara. Exemplu: **Guitar Tuna**.
 
+### 1.9. Tabulatură
+
+O metodă simplă de a nota muzica pentru chitară (așa cum sunt partituri pentru pian) este aceasta. Se numește **tabulatură** (în engleză **tab** sau **guitar tab**).
+
+Ai o linie orizontală pentru fiecare coardă. Muzica se cântă de la stânga la dreapta. Acolo unde întâlnești un număr pe o coardă înseamnă că vei apăsa coarda respectivă pe tasta cu numărul dat.
+
+În primul exemplu ai toate 6 corzile cântate începând cu cea mai groasă. Și pentru fiecare vei cânta tasta 0 (adică coarda lăsată liberă), apoi 1, 2, 3, 4. Vei folosi degetele de la mâna stângă exact în ordinea tastelor. Degetul 1 se ocupă de tasta 1, 2 de 2, 3 de 3, 4 de 4.
+
+Acest exercițiu este temă pentru prima săptămână. Dacă îl încerci zilnic măcar 5 minute, o să te ajute să-ți formezi bătături la degetele de la mâna stângă (la început o să te doară...) și să-ți formezi digitația (să poți pe urmă să miști ușor degetele pe corzi).
+
+![tabulatura](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-05.png)
+
+Dar oare ce se întâmplă dacă apar mai multe cifre toate pe aceeași verticală? Simplu! Exact ca la o partitură normală. Acele note muzicale se cântă împreună.
+
+În exemplul de mai sus toate corzile sunt lovite, dar 4 dintre ele sunt lăsate libere. Împreună, aceste note sună armonios - formează deci un **acord**. Putem, deci, să reprezentăm acordurile și sub formă de tabulatură. Mai mult despre acorduri începând cu lecția următoare.
+
+![tabulatura-acord](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-06.png)
+
+Până atunci ai temă: 1) acordează chitara folosind Guitar Tuna. și 2) repetă exercițiul din prima tabulatură respectând degetul indicat pentru fiecare notă.
+Vei începe să exersezi lent (e important să sune corect fiecare notă) și apoi poți spori viteza cu care cânți (adică **tempo**).
+
+Dacă te plictisești, încearcă și invers acel exercițiu. Spor!
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

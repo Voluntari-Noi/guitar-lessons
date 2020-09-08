@@ -60,4 +60,17 @@ Observă că nu avem clapă neagră între E și F, nici între B și C.
 
 ![note-grif](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-04.png)
 
+Dacă la pian toate clapele sună diferit, pe grif vei găsi sunete identice în poziții diferite. Din cauză că fiecare coardă e ca un pian: pornește cu o anumită notă și continuă cu notele care îi urmează, așa cum clapele merg una după alta. În imagine am numerotat tastele: 1, 2, 3, 4...
+
+Observi că cea mai subțire coardă când e lăsată liberă dă nota E, pe tasta 1: F, pe tasta 2: F#, urmând apoi G, Ab, A ... etc. Se respectă ordinea notelor, exact cu cea a clapelor. Aici nu ai taste albe și negre, dar notele există toate.
+
+Pe coarda B, ai notele C, C#, D etc.
+
+### 1.8. Acordarea
+
+Am colorat tastele 4 și 5 - ajută la acordat. Coarda E groasă, pe tasta 5 să nota A (sunet identic cu coarda A lăsată liberă) etc.
+Deci, se poate acorda o coardă ținând cont de relația cu celelalte corzi.
+
+Dar cel mai ușor e să folosești o aplicație pentru acordat chitara. Exemplu: Guitar Tuna.
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

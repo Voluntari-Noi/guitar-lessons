@@ -73,6 +73,6 @@ Pe coarda B, ai notele C, C#, D etc.
 Am colorat tastele 4 și 5 - ajută la acordat. Coarda E groasă, pe tasta 5 să nota A (sunet identic cu coarda A lăsată liberă) etc.
 Deci, se poate acorda o coardă ținând cont de relația cu celelalte corzi.
 
-Dar cel mai ușor e să folosești o aplicație pentru acordat chitara. Exemplu: Guitar Tuna.
+Dar cel mai ușor e să folosești o aplicație pentru acordat chitara. Exemplu: **Guitar Tuna**.
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

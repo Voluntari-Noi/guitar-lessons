@@ -89,7 +89,7 @@ Acest exercițiu este temă pentru prima săptămână. Dacă îl încerci zilni
 
 Dar oare ce se întâmplă dacă apar mai multe cifre toate pe aceeași verticală? Simplu! Exact ca la o partitură normală. Acele note muzicale se cântă împreună.
 
-În exemplul de mai sus toate corzile sunt lovite, dar 4 dintre ele sunt lăsate libere. Împreună, aceste note sună armonios - formează deci un **acord**. Putem, deci, să reprezentăm acordurile și sub formă de tabulatură. Mai mult despre acorduri începând cu lecția următoare.
+În exemplul de mai jos toate corzile sunt lovite, dar 4 dintre ele sunt lăsate libere. Împreună, aceste note sună armonios - formează deci un **acord**. Putem, deci, să reprezentăm acordurile și sub formă de tabulatură. Mai mult despre acorduri începând cu lecția următoare.
 
 ![tabulatura-acord](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/01/lectia-1-06.png)
 

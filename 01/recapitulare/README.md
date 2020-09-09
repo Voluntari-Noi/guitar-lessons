@@ -21,13 +21,13 @@
 
 5. Cum notăm aceste note?
 
-Re bemol = ___
+* Re bemol = ___
 
-Si bemol = ___
+* Si bemol = ___
 
-Fa diez = ___
+* Fa diez = ___
 
-Do diez = ___
+* Do diez = ___
 
 6. Unde găsim nota La pe grif? (Zi-mi cel puțin 2 taste diferite pe corzi diferite.)
 
@@ -38,5 +38,7 @@ Do diez = ___
 9. Tabulaturile se cântă citind (în direcția) de la ______ la ______.
 
 10. Dacă întâlnim mai multe note pe aceeași verticală într-o tabulatură, acele note se vor cânta _____.
+
+## [Înapoi la Lecția 1](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/01)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

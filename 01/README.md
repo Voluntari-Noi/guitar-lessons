@@ -98,4 +98,6 @@ Vei începe să exersezi lent (e important să sune corect fiecare notă) și ap
 
 Dacă te plictisești, încearcă și invers acel exercițiu. Spor!
 
+## [Recapitulare Lecția 1](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/01/recapitulare)
+
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

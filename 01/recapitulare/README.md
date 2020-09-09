@@ -1,17 +1,19 @@
 # [Lecții de chitară](https://github.com/Voluntari-Noi/guitar-lessons)
 
+## Recapitulare Lecția 1
+
 1. Câte corzi și câte cheițe are chitara?
 2. Folosește notația internațională:
 
-Do = ___
+* Do = ___
 
-___ = Mi
+* ___ = Mi
 
-A = ___
+* A = ___
 
-___ = Fa
+* ___ = Fa
 
-Sol = ___
+* Sol = ___
 
 3. Corzile chitarei sunt: Mi, Si, Sol, ___, ___, ___.
 

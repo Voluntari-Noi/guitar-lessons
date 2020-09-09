@@ -42,8 +42,12 @@ etc.
 
 ![acorduri](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/02/lectia-2-01.png)
 
-Figura de mai sus explică reprezentarea grafică pe care o folosim pentru a nota acordurile. Imaginează-ți chitara ținută pe verticală. Bulinele indică poziția notelor pe grif. 
+Figura de mai sus explică reprezentarea grafică pe care o folosim pentru a nota acordurile. Imaginează-ți chitara ținută pe verticală. Bulinele indică poziția notelor pe grif. Pentru acordul Mi minor (Em), degetul 1 de la mâna stângă va apăsa coarda La (A) pe tasta 2, iar degetul 2 va apăsa coarda D tot pe tasta 2. Restul corzilor sunt lăsate libere.
 
-## [Recapitulare Lecția 2(https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02recapitulare)
+Acordul Mi major e destul de asemănător, dar pentru că trebuie apăsată coarda G pe tasta 1, în mod natural vei folosi acolo degetul 1, pentru celelalte note urmând să folosești 2 și 3.
+
+Deci bulinele indică tastele pe care apeși, iar cifrele de sus indică degetele folosite.
+
+## [Recapitulare Lecția 2](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02recapitulare)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

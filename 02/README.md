@@ -40,3 +40,10 @@ C#m - Do diez minor
 
 etc.
 
+![acorduri](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/02/lectia-2-01.png)
+
+Figura de mai sus explică reprezentarea grafică pe care o folosim pentru a nota acordurile. Imaginează-ți chitara ținută pe verticală. Bulinele indică poziția notelor pe grif. 
+
+## [Recapitulare Lecția 2(https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02recapitulare)
+
+# [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

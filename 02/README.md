@@ -74,6 +74,6 @@ Pentru mâna stângă trebuie să găsești poziții cât mai confortabile. În 
 
 **Temă**: Învață acordurile D, A, G.
 
-## [Recapitulare Lecția 2](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02recapitulare)
+## [Recapitulare Lecția 2](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02/recapitulare)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

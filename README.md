@@ -5,4 +5,7 @@
 
 ### [Recapitulare Lecția 1](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/01/recapitulare)
 ### [Lecția 2 - Acorduri simple](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02)
+
+(Notația acordurilor, acorduri minore / majore, reprezentarea acordurilor, acordurile D, A și G)
+
 ### [Recapitulare Lecția 2](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/02/recapitulare)

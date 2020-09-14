@@ -8,6 +8,9 @@ La fel ca notele muzicale și acordurile se notează cu A, B, C, D, E, F, G.
 
 A = La, B = Si, C = Do, E = Mi, F = Fa, G = Sol.
 
+La fel ca notele muzicale, acordurile se succed: A, Bb, B, C, Db, D, Eb, E, F, Gb, G, Ab...
+Poți folosi un **capodastru** ca să scurtezi griful și să faci un anume acord să sune mai sus. De exemplu, o cântare pe care o cântai cu acordurile D, A, G, s-ar putea să vrei să o cânți mai sus cu un ton. În mod normal ai folosi acordurile E, B, A (pentru că E urmează după D, B după A și A după G - dacă numeri 2 taste pentru cele 2 semitonuri). Poți în schimb să pui capodastrul pe tasta 2 și să cânți în continuare cu acordurile D, A, G pe care le știi deja. Sunetul va fi cu 2 semitonuri mai sus. La pian electric ai o opțiune similară numită **transpose** care îți permite să faci clapele să sune mai sus sau mai jos decât sunetul normal.
+
 Sunt două tipuri mari de acorduri: acorduri majore și acorduri minore.
 
 ### 2.2. Acorduri majore

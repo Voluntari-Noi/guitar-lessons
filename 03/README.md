@@ -20,6 +20,15 @@ Când asculți muzică, instrumentele care fac percuția sunt cele care accentue
 
 Viteza cu care cântăm se numește **tempo**. Poate fi lent, accelerat etc. Poți folosi un **metronom** ca să setezi un anume tempo. De exemplu: 90 BPM (beats-per-minute). E imporant în timp să înveți să menții tempo-ul dat, să nu accelerezi sau să tărăgănezi cântarea fără să intenționezi asta.
 
+### 3.2. Ritmul 3/4
+
+Este format din 3 timpi, care se tot repetă.
+
+Citește rândul următor cu voce tare accentuând textul îngroșat:
+
+**Un**, doi, trei, **un**, doi, trei, **un**, doi, trei.
+
+
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

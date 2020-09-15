@@ -32,7 +32,16 @@ Am putea nota: (**un**, doi, trei) - parantezele însemnând în acest caz că r
 
 La chitară facem ritmul cu mâna dreaptă. Și am zis deja că numerotăm degetele începând cu degetul mare: 1, 2, 3, 4, x (degetul mic nu e folosit).
 
+### 3.3. Ritmul 3/4 pe chitară - corzi lovite
+
+Lovim corzile de 3 ori pentru fiecare măsură a ritmului: (**jos**, sus, sus). Accentuăm mai tare lovind mai puternic prima bătaie din ritm: în jos.
+
+### 3.4. Ritmul 3/4 pe chitară - ciupit
+
 ![ritm-4](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/03/lectia-3-040.png)
+
+Asociem degetele cu corzile astfel: degetul mare (1) se ocupă de corzile groase - E, A, D. Apoi degetele 2, 3, 4 - fiecare are grijă de o coardă subțire - 2 de G, 3 de B, 4 de E.
+
 
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 

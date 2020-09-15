@@ -28,6 +28,7 @@ Citește rândul următor cu voce tare accentuând textul îngroșat:
 
 **Un**, doi, trei, **un**, doi, trei, **un**, doi, trei.
 
+Am putea nota: (**un**, doi, trei) - parantezele însemnând în acest caz că repetăm acea secvență (măsură de ritm)
 
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 

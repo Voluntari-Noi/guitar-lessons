@@ -6,11 +6,11 @@
 
 Când te uiți la o partitură vei vedea niște cifre notate chiar la început.
 
-![acorduri-D-A-G](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/02/lectia-3-01.png)
+![ritm-1](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/03/lectia-3-01.png)
 
-![acorduri-D-A-G](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/02/lectia-3-02.png)
+![ritm-2](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/03/lectia-3-02.png)
 
-![acorduri-D-A-G](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/02/lectia-3-03.png)
+![ritm-3](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/03/lectia-3-03.png)
 
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 

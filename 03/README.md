@@ -30,6 +30,10 @@ Citește rândul următor cu voce tare accentuând textul îngroșat:
 
 Am putea nota: (**un**, doi, trei) - parantezele însemnând în acest caz că repetăm acea secvență (măsură de ritm)
 
+La chitară facem ritmul cu mâna dreaptă. Și am zis deja că numerotăm degetele începând cu degetul mare: 1, 2, 3, 4, x (degetul mic nu e folosit).
+
+![ritm-4](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/03/lectia-3-04.png)
+
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

@@ -57,6 +57,8 @@ Deci, în timp ce degetele 2, 3, 4 rămân mereu pe corzile G, B, E, degetul mar
 Folosim ritm 3/4. Poți încerca ambele variante (cea în care lovești corzile și cea în care ciupești).
 La început va fi dificil să schimbi acordurile. Dar te vei obișnui. Scopul acestei piese e să înveți trecerea de la D la A și de la A la D. Folosim doar 2 acorduri aici. Am colorat silabele ca să simți mai ușor timpii accentuați și cei neaccentuați. De folos e și să citești tare versurile încercând să prinzi care sunt silabele accentuate mai tare - acolo avem primul timp din măsura de ritm.
 
+Poți asculta aici: [Domnul e mare](https://github.com/Voluntari-Noi/guitar-lessons/blob/master/03/lectia-3-Domnul-e-mare.mp4?raw=true).
+
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

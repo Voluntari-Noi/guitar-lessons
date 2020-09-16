@@ -43,6 +43,7 @@ Lovim corzile de 3 ori pentru fiecare măsură a ritmului: (**jos**, sus, sus). 
 Asociem degetele cu corzile astfel: degetul mare (1) se ocupă de corzile groase - E, A, D. Apoi degetele 2, 3, 4 - fiecare are grijă de o coardă subțire - 2 de G, 3 de B, 4 de E.
 
 Ciupim corzile așa: (1+4, 3, 2)
+
 Tradus: La primul timp din măsura de ritm ciupim cu degetele 1+4, deci o coardă groasă dintre cele 3 + coarda E subțire. Apoi timpul 2: ciupim cu degetul 3 coarda B. Apoi timpul 3: ciupim cu degetul 2 coarda G.
 
 Cea mai potrivită coardă de ciupit pentru nota de bass e chiar coarda care dă nota acordului. Exemplu: pentru acordul D, ciupești coarda D. Pentru acordul A, ciupești coarda A, pentru acordul G - ciupești coarda E groasă pentru că apăsată pe tasta 3 dă exact nota G.

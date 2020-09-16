@@ -50,6 +50,13 @@ Cea mai potrivită coardă de ciupit pentru nota de bass e chiar coarda care dă
 
 Deci, în timp ce degetele 2, 3, 4 rămân mereu pe corzile G, B, E, degetul mare ciupește coarda D, A sau E în funcție de acord.
 
+### 3.5. Prima cântare
+
+![cantare](https://raw.githubusercontent.com/Voluntari-Noi/guitar-lessons/master/03/lectia-3-050.png)
+
+Folosim ritm 3/4. Poți încerca ambele variante (cea în care lovești corzile și cea în care ciupești).
+La început va fi dificil să schimbi acordurile. Dar te vei obișnui. Scopul acestei piese e să înveți trecerea de la D la A și de la A la D. Folosim doar 2 acorduri aici. Am colorat silabele ca să simți mai ușor timpii accentuați și cei neaccentuați. De folos e și să citești tare versurile încercând să prinzi care sunt silabele accentuate mai tare - acolo avem primul timp din măsura de ritm.
+
 ## [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
 
 # [Înapoi la Cuprins](https://github.com/Voluntari-Noi/guitar-lessons)

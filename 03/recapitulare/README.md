@@ -2,7 +2,9 @@
 
 ## Recapitulare Lecția 3
 
-1.
+Provocare: Înregistrează-te cântând prima piesă învățată.
+
+Folosește ambele ritmuri: și cel în care lovești corzile și ciupit.
 
 ## [Înapoi la Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03)
 

@@ -20,3 +20,11 @@
 (Cum lovești sau ciupești corzile pentru piese cu ritm 3/4. Prima piesă: Domnul e mare.)
 
 ##### [Recapitulare Lecția 3](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/03/recapitulare)
+
+--- 
+
+### [Lecția 4 - Ritmul 4/4](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/04)
+
+(Cum lovești sau ciupești corzile pentru piese cu ritm 4/4. Mai înveți o piesă.)
+
+##### [Recapitulare Lecția 4](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/04/recapitulare)

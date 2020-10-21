@@ -43,7 +43,7 @@ D                   Em
 C                 D
 Un singur lucru știu
                   - Refren x 2
-
+C        G     D             G (C)  
 Am speranță că sunt în mâna Lui x 2
 ```
 

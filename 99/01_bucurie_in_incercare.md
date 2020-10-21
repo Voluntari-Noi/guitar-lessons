@@ -48,3 +48,5 @@ Am speranță că sunt în mâna Lui x 2
 ```
 
 (Original: I Have Hope - Dallas Holm, 1993. Piesă tradusă în română de grupul Sion.)
+
+### [Înapoi la Index cântări](https://github.com/Voluntari-Noi/guitar-lessons/blob/master/99/README.md)

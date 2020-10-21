@@ -15,7 +15,7 @@ Că e speranță în Hristos.
 
 Singur voiam să merg spre cer
 Dar lunecând mă-ndepărtam
-O casă am azi însă eu
+O casă am azi însă eu:
 În Domnul Isus eu voi sta
 
   Refren:

@@ -28,3 +28,9 @@
 (Cum lovești sau ciupești corzile pentru piese cu ritm 4/4. Mai înveți o piesă.)
 
 ##### [Recapitulare Lecția 4](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/04/recapitulare)
+
+--- 
+
+### [Cântări cu acorduri](https://github.com/Voluntari-Noi/guitar-lessons/tree/master/99)
+
+(Câteva cântări pe care le poți cânta la chitară.)
